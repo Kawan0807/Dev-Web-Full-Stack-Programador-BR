@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.card{
+
+    width: 400px;
+    height: 200px;
+    padding: 1px 20px;
+    margin: auto;
+    box-sizing: border-box;
+    background: url('../assets/background.png') no-repeat;
+    background-size: cover;
+    margin-top: 10%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.instagram{
+    list-style-image: url('../assets/Insta.png');
+}
+.twitter{
+    list-style-image: url('../assets/Twitter.png');
+}
+.youtube{
+    list-style-image: url('../assets/Youtube.png');
+}
