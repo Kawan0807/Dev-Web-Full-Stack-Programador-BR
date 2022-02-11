@@ -2,5 +2,11 @@ body{
     background-color: black;
 }
 #titulo{
-    color: blue;
+    color:gray;
+}
+.card{
+    margin: auto;
+    box-sizing: border-box;
+    background-size: cover;
+    margin-top: 10%;
 }
